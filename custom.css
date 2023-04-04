@@ -44,10 +44,6 @@ small {
   border-bottom-right-radius: 10% 10%;
   border-bottom-left-radius: 10% 10%;
 }
-.MTR{
-  margin-left: -17px;
-}
-
 .company{
   display: flex;
   justify-content: center;
@@ -132,6 +128,7 @@ aside p {
   border-radius: 40px ;
   color: #4e86ad;
   cursor: pointer;
+  font-weight: bold;
 }
 .right{
   width: 50%;
